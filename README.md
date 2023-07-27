@@ -27,4 +27,4 @@ This bot interacts with unaudited smart contracts. Might not be a great idea.. A
 
 ## Why?
 
-I noticed a few accounts spamming transactions like this [...](https://solscan.io/tx/2A9jragZ4Q2NLS7nan8aqbrgxvVKWJVC3WgbXtHaB6hwMA2jpbNKnHC77SYRppSxTMU89A155464dBVb4gUZmPcA)
+I noticed a few accounts spamming transactions like [this](https://solscan.io/tx/2A9jragZ4Q2NLS7nan8aqbrgxvVKWJVC3WgbXtHaB6hwMA2jpbNKnHC77SYRppSxTMU89A155464dBVb4gUZmPcA)
