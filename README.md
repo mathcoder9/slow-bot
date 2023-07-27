@@ -6,7 +6,7 @@
 
 This bot mints $SLOW for SOL, calls burn and then sells $SLOW token for mSol.
 
-## other notes
+## Other notes
 
 This bot interacts with unaudited smart contracts. Might not be a great idea.. Also, you might want to double check all of the addresses used... Use at your own risk.
 

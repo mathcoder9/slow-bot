@@ -272,12 +272,12 @@ const composeInstructions = async (instructions: TransactionInstruction[]) => {
 };
 
 const execute = async () => {
-  try {
-    while (true) {
+  while (true) {
+    try {
       await createAndSendV0Tx(fullInstructions);
+    } catch (error) {
+      console.log(error);
     }
-  } catch (error) {
-    console.log(error);
   }
 };
 
